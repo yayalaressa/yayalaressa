@@ -1,3 +1,5 @@
+<a href="https://yaya.my.id" target="_blank">![Logo](https://raw.githubusercontent.com/yayalaressa/htmly-yayalaressa/master/logo-big.png)</a>
+
 - 👋 Hi, I’m @yayalaressa
 - 👀 I’m interested in music and programing
 - 🌱 I’m currently learning to be human
